@@ -2,11 +2,12 @@
 
 ## About
 
-Darkland is a simple theme and accompanying color scheme for Sublime Text 2 & 3. It is derived from Flatland Dark which was mostly derived from [Soda](https://github.com/buymeasoda/soda-theme), the right place to start for any custom theme development for Sublime. Thanks Soda!
+Darkland is a simple theme and accompanying color scheme for Sublime Text 2 & 3. It is derived from [Flatland Dark](https://github.com/thinkpixellab/flatland) which was mostly derived from [Soda](https://github.com/buymeasoda/soda-theme).  Both are great, but this is a high contrast alternative.
 
 ## Design
 
-![Screen Shot!](TODO)
+![Screen Shot!](https://raw.github.com/jrelles/darkland/master/Screenshot1.png)
+![Screen Shot!](https://raw.github.com/jrelles/darkland/master/Screenshot2.png)
 
 
 ## Installation
@@ -16,7 +17,7 @@ Darkland is a Sublime package. There are several ways to install it.
 You can install it using the excellent [Package Control][] package manager for Sublime Text:
 
 1. Open "Package Control: Install Package" from the Sublime quick menu (Command-Shift-P).
-2. Select the 'Theme - Darkland' option to install Darkland.
+2. Select the 'Darkland' option to install Darkland.
 
 [Package Control]: http://wbond.net/sublime_packages/package_control
 
@@ -26,14 +27,14 @@ Alternatively, if you are a git user, you can install the theme and keep up to d
 While inside the `Packages` directory, clone the theme repository using the command below:
 
 ```bash
-git clone git://github.com/thinkpixellab/Darkland.git "Theme - Darkland"
+git clone git://github.com/jrelles/Darkland.git "Darkland"
 ```
 
 ### Manual Installation
 You can also install it manually by following these instructions:
 
-1. [Download theme files](TODO)
-2. Unzip the files and copy the folder newly created folder into your Sublime Text Packages directory with the name `Theme - Darkland`. You can find that directory by selecting "Preferences > Browse Packages ...".
+1. [Download theme files](https://github.com/jrelles/darkland/archive/master.zip)
+2. Unzip the files and copy the folder newly created folder into your Sublime Text Packages directory with the name `Darkland`. You can find that directory by selecting "Preferences > Browse Packages ...".
 
 
 ## Activating the Theme
